@@ -23,7 +23,7 @@
       1.3 Run app on a Django framework using python
       
 
-   # HOE-TO-USE
+   # HOW-TO-USE
    Step one: Log in
      This page will request users to log in if they are new users they can create an account on the site.
    Step two: Home page
