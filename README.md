@@ -1,5 +1,5 @@
-# compulsory-task
-A cookbook website. has recipes that are easy to make for everyone
+# recipe-website
+   A cookbook website. Has recipes that are easy to make for everyone. Includes recipe ingredients, and cooking method
 
 #Table of Contents
 1. About
